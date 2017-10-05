@@ -1,4 +1,4 @@
-Identifique a sua turma pelo ano atual, inicial da turma e número dela.   
+Identifique a sua turma pelo ano atual, inicial da turma e número dela.   1
 
 Exemplo:  
 * 2017-s411 para subsequente 411 do ano 2017.   
